@@ -20,3 +20,5 @@ Expectations:
     - the Terraform code
     - the Mongo-Dump
     - the Mongo-DB setup scripts
+
+![tickets-SXPDEVOG-450](https://github.com/giacomoquaglia11/mongodb-standalone/assets/153645847/cc2abd8f-14c7-44f6-b292-a69d2610420c)
